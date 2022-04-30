@@ -1,6 +1,6 @@
 # Surfs_up
 
-## Using Python, Pandas, Jupyter Notebook, SQLite, and Flask to analyize weather data.
+## Using Python, Pandas, Jupyter Notebook, SQLite, and Flask to analyze weather data.
 
 
 ### Overview
